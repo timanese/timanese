@@ -13,7 +13,7 @@ List of the skills i've learned:
   - loading ...
   
   
-  Goals of 2021:
+Goals of 2021:
     - sharpening my knowledge of data structures
     - 4.0 GPA
     - Look in to machine learning 
@@ -22,12 +22,12 @@ List of the skills i've learned:
     - loading ...
   
   
-  Some of my Interest:
+Some of my Interest:
     - Loading...
     - Loading...
     
   
-  Get in Touch with Me:
+Get in Touch with Me:
     - Email  tyang098@gmail.com
     - Discord  loading...
     - Linkedin  loading...
