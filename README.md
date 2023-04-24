@@ -4,7 +4,7 @@ Get in Touch with Me:
   - Linkedin  https://www.linkedin.com/in/tim-yang-49258b18b/
  
  Personal Website:
-  - https://timanese.github.io/personalportfolio2022/
+  - https://timyang.dev/
 
     
   
